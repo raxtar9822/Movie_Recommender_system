@@ -1,6 +1,6 @@
 # Movie Recommender System
 
- Movie Recommendation System Project using Python, Machine Learning, and Streamlit
+ Movie Recommendation System Project using Python, Machine Learning, and NLP
 
 ---
 
